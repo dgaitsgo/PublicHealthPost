@@ -1,0 +1,16 @@
+utility_id : 'Random code associated ?'
+location_state_abbrev : 'State',
+year : 'Well, year',
+All_Violation_Categories : 'All health violations',
+Lag_All_Violation_Categories : '',
+TotalColiform_Violation : 'Total coliforms include a variety of bacteria that are mostly not harmful to humans, but serve as an indicator for E. coli, parasites (e.g., Cryptosporidium, Giardia lamblia)'
+Lag_TotalColiform_Violation : '',
+private_ownership : '',
+size_medium : '',
+size_large : '',
+water_source_purchased : '',
+water_source_surfacewater : '',
+ln_median_household_income : '',
+nonwhite : '',
+ln_housing_density : '',
+hhi : ''
